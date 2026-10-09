@@ -1,0 +1,16 @@
+.git
+.gitignore
+.github
+.vscode
+.idea
+node_modules
+dist
+coverage
+test-results
+playwright-report
+docs
+README.md
+*.log
+.env
+.env.*
+**/*.test.*
